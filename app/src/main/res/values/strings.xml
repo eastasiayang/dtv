@@ -3,4 +3,7 @@
     <string name="Live_TV">Live TV</string>
     <string name="Recording">Recording</string>
     <string name="Settings">Settings</string>
+    <string name="Done">Done</string>
+    <string name="Back">Back</string>
+    <string name="Record">Record</string>
 </resources>

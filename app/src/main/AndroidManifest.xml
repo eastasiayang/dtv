@@ -18,7 +18,11 @@
         </activity>
         <activity android:name=".ActivityRecording" />
         <activity android:name=".ActivityLiveTV" />
-        <activity android:name=".ActivitySettings"></activity>
+        <activity android:name=".ActivitySettings" />
+        <activity android:name=".ActivityLiveFullTV"
+            android:screenOrientation="landscape">
+
+        </activity>
     </application>
 
 </manifest>
